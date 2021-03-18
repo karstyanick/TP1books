@@ -4,9 +4,9 @@
 
 # To complete: 
 
-* Name :
-* Student Id:
-* Email :
+* Name : Yanick Karst
+* Student Id: 018117272A
+* Email : 018117272A@uni.lu
 
 ### Setting
 In this practical session, you will code a method to compute the cost of shopping basket and test it using JUnit.
