@@ -23,6 +23,7 @@ public class BookShop {
     public double cost(int[] books){
         //TODO complete
     	Map<Integer, Double> map = new HashMap<Integer, Double>();
+    	map.put(0, 0.00);
     	map.put(1, 1.00);
     	map.put(2, 0.07);
     	map.put(3, 0.14);

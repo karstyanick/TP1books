@@ -30,9 +30,13 @@ public class BookShopTest {
 		int[] books4 = {1,3,3,2,1};
 		double output4 = test.cost(books4);
 		
+		int[] books5 = {0,0,0,0,0};
+		double output5 = test.cost(books5);
+		
 		assertEquals(31.04, output1);
 		assertEquals(52.64, output2);
 		assertEquals(26.00, output3);
 		assertEquals(66.00, output4);
+		assertEquals(00.00, output5);
 	}
 }
